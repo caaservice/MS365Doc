@@ -10,11 +10,11 @@ export default hopeTheme({
     url: "https://ms365doc.zxg.red",
   },
 
-  iconAssets: "iconfont",
+  iconAssets: "fontawesome",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "caaservice/MS365Doc",
 
   docsDir: "demo/src",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "由中学馆应用办公室赞维护",
+  footer: "由中学馆应用办公室维护",
 
   displayFooter: true,
 
