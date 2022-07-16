@@ -32,11 +32,11 @@ headerDepth: 2
 
 ## 入门指南
 
-<video autoplay="" controls="" width="350" src="https://static-file.zxg.red/2022/07/16/c0a9218ddd3f4.mp4"></video>
+<iframe src="//player.bilibili.com/player.html?aid=371976252&bvid=BV1nZ4y1T7iD&cid=229271605&page=2" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" >
+</iframe>
 
 ## Reference
 
 - https://aca.ntsu.edu.tw/var/file/4/1004/img/255320425.pdf
 - https://support.microsoft.com/zh-cn/teams
 - https://www.bilibili.com/video/BV1nZ4y1T7iD?p=2&spm_id_from=pageDriver
-

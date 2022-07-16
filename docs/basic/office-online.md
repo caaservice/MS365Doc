@@ -17,7 +17,6 @@ headerDepth: 2
 
 :::
 
-<video autoplay="" controls="" width="350" src="https://static-file.zxg.red/2022/07/16/7092376195ffa.mp4"></video>
-
-Ref. https://www.bilibili.com/video/BV1354y1v7oG?p=2
+<iframe src="//player.bilibili.com/player.html?aid=841972805&bvid=BV1354y1v7oG&cid=229271932&page=2" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" >
+</iframe>
 

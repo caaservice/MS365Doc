@@ -25,9 +25,10 @@ headerDepth: 2
 - 测验功能自动计算分数
 - 测验功能支持随机打乱出题
 
-这里提供一个案例：https://forms.office.com/r/JBVEwTrH9S
 
-<video autoplay="" controls="" width="350" src="https://static-file.zxg.red/2022/07/16/74ccb1f60df6d.mp4"></video>
+
+<iframe src="//player.bilibili.com/player.html?aid=841958153&bvid=BV1u54y1v744&cid=229272142&page=2" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" >
+</iframe>
 
 ::: tip
 
@@ -35,4 +36,5 @@ headerDepth: 2
 
 :::
 
-ref. https://www.bilibili.com/video/BV1u54y1v744?p=2
+这里提供一个案例：https://forms.office.com/r/JBVEwTrH9S
+

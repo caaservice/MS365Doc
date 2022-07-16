@@ -55,7 +55,7 @@ headerDepth: 2
 
 :::
 
-了解如何查看自己许可证
+[了解如何查看自己许可证](/faq/license.html#如何查看自己的许可证)
 
 ## 如何学习本文档
 
@@ -67,5 +67,5 @@ headerDepth: 2
 
 ![1657901809225.png](https://static-file.zxg.red/2022/07/16/ca0579400a2e1.png)在手机上可通过左上角汉堡包调出侧边栏
 
-<img src="https://static-file.zxg.red/2022/07/16/4de487b528a79.png" alt="1657902037205.png" style="zoom: 33%;" />
+<img src="https://static-file.zxg.red/2022/07/16/db65c09a5e4d0.png" alt="1657959825900.png" style="zoom:33%;" />
 

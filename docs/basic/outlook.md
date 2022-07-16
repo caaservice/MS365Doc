@@ -38,7 +38,7 @@ headerDepth: 2
 
 :::
 
-<img src="https://static-file.zxg.red/2022/07/16/412ad02d417e1.png" alt="1657912657268.png" style="zoom:50%;" />
+![1657960016073.png](https://static-file.zxg.red/2022/07/16/0298d1f101f71.png)
 
 ## 认识界面
 
