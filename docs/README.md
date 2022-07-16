@@ -22,8 +22,8 @@ features:
 
   - title: 基础功能手册
     icon: fa-solid fa-book-bookmark
-    details: Office 365 套件<br >Forms & To do List<br >Onedrive 云盘
-    link: rank
+    details: Office 365 套件<br >Forms & Teams & Outlook<br >Onedrive 云盘
+    link: basic/onedrive.html
 
   - title: SharePoint & Onedrive
     icon: fa-solid fa-cloud
@@ -96,7 +96,7 @@ features:
     link: about
 
 copyright: false
-footer: MIT License | Copyright ©2022 中国学馆联盟
+footer: AGPL-3.0 | Copyright ©2022 中国学馆联盟
 ---
 
 <h6 style="text-align:center">

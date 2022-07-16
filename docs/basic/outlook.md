@@ -1,7 +1,7 @@
 ---
 article: true
 date: 2022-07-15
-order: 6
+order: 3
 headerDepth: 2
 ---
 
