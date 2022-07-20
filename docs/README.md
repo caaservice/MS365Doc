@@ -4,7 +4,7 @@ icon: home
 title: 主页
 heroImage: /logo.png
 heroText: MS365教育版手册
-tagline: 中国学馆联盟 Microsoft365 工作站手册
+tagline: 中国学馆联盟 Microsoft 365 工作站手册
 actions:
   - text: 新用户指南 🏫
     link: new-user
@@ -28,7 +28,7 @@ features:
   - title: SharePoint & Onedrive
     icon: fa-solid fa-cloud
     details: 共享文件，文档版本回溯<br >设备同步，挂载到磁盘<br >拓展空间到 25TB
-    link: why-hk-campus
+    link: onedrive
 
   - title: Microsoft Teams
     icon: fa-solid fa-users-line
