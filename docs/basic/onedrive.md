@@ -47,6 +47,8 @@ Onedrive 则是 Microsoft 365 个人版的服务，不在教育版中包含。�
 
 ![1657909236417.png](https://static-file.zxg.red/2022/07/16/2299c027fa567.png)
 
+![CleanShot 2022-07-26 at 00.13.57@2x.png](https://static-file.zxg.red/2022/07/26/1f930e8ee0270.png)
+
 ::: danger
 
 再次强调，**在电脑上**，很不建议下载官方的 Onedrive 客户端。目前已经有了很多的替代品。如果你的电脑上预装 Onedrive 客户端，请查看卸载文档。
@@ -67,7 +69,7 @@ Onedrive 则是 Microsoft 365 个人版的服务，不在教育版中包含。�
 
 选中你想要下载的文件，右键单击下载即可。
 
-- 下载多个文件时，文件会自动打包成ZIP压缩文件传输。
+- 下载多个文件时，文件会自动打包成 ZIP 压缩文件传输。
 - 下载速度取决于电信运营商限速和线路好坏。官方不限速。
 
 <img src="https://static-file.zxg.red/2022/07/16/2905653226a14.png" alt="1657909552188.png" style="zoom:50%;" />
@@ -78,7 +80,7 @@ Onedrive 则是 Microsoft 365 个人版的服务，不在教育版中包含。�
 
 有时候，因为某些因素，在中国内地下载 Onedrive for business 文件的速度可能不能令人满意。部分同学考虑使用~~国际线路网络~~工具，可这种的成本又很高，提速也不理想。
 
-本文档提供一种使用多线程方式下载  Onedrive for business 文件，实测最高下载速度为 2519 MB/s。请查看
+本文档提供一种使用多线程方式下载  Onedrive for business 文件，实测最高下载速度为 2519 MB/s。请查看 [快速下载文件指南](/onedrive/fast-download.html)
 
 :::
 
