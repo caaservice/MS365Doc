@@ -47,7 +47,7 @@ headerDepth: 2
 在阅读时请自行替换相关词汇，
 
 - Microsoft 365 A3 或 Microsoft 365 A5 许可证 -> 中国学馆联盟学研组成员
-- Office A1, Microsoft A1 -> 中国学馆联盟俱乐部成员
+- Office 365 A1 -> 中国学馆联盟俱乐部成员
 
 ::: tip 
 

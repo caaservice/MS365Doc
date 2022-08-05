@@ -18,11 +18,6 @@ Onedrive for business 是 Microsoft 365 商业版、企业版和教育版中包�
 
 你可能会混淆 SharePoint， Onedrive for business。他们确实有很大的差异，尽管你不需要明确知晓。Sharepoint 是共享文件存储服务，可以用于建立门户网站，托管和分享文件，它实现了 Onedrive for business。可以说 SharePoint 是组织的公共云盘，而 Onedrive for business 是个人的云盘。
 
-Onedrive 则是 Microsoft 365 个人版的服务，不在教育版中包含。我想提醒的是，SharePoint 和 Onedrive for business  的存储和管理是独立的，尽管由微软托管，但是组织管理员有权利管理你的账户。
-
-- 中国学馆联盟严格依据成员签署依据服务条款，切实保障成员的合法权益。
-- 使用自己学校的工作站账户的学生，应当咨询自己学校相关规定。
-
 :::
 
 ## 进入Onedrive

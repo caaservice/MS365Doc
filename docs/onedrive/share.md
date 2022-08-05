@@ -7,3 +7,5 @@ headerDepth: 2
 ---
 
 # 分享文件和请求文件
+
+Onedrive for Business 和 Sharepoint 可以

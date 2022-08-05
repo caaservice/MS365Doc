@@ -78,7 +78,7 @@ features:
   - title: 常见问题
     icon: fa-regular fa-circle-question
     details: 不同账户的许可证以及区别<br >Onedrive 个人版和商业版区别<br >不能够做的事情
-    link: outstanding-student
+    link: faq
 
   - title: 优秀案例
     icon: fa-solid fa-user-graduate
@@ -104,4 +104,3 @@ Microsoft 365 教育版用户手册内容仅供参考
 <br>
 本项目由中国学馆联盟应用办公室维护
 </h6>
-

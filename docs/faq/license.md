@@ -18,7 +18,25 @@ headerDepth: 2
 
 ## 如何查看自己的许可证
 
-对于非个人版Microsoft 365，在查看账户中
+::: tip
+
+中国学馆联盟的成员的 Microsoft 365 许可证安排如下，
+
+- 中国学馆联盟正式成员: Microsoft 365 A3
+- 中国学馆联盟俱乐部会员: Office 365 A1
+
+:::
+
+::: info 附件：学校的许可证
+
+目前，境外的大学这样安排学生的许可证
+
+- 在校的具有学生身份的学生： Microsoft 365 A3 或  Microsoft 365 A5
+- 毕业后的学生：Office 365 A1
+
+:::
+
+对于非个人版 Microsoft 365，在查看账户中
 
 ![1657963240491.png](https://static-file.zxg.red/2022/07/16/5e5b62365e462.png)
 
