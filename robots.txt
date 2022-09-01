@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ms365doc.zxg.red/sitemap.xml
+Sitemap: https://hirsun.github.io/clc3242p/sitemap.xml
