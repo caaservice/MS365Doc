@@ -3,104 +3,74 @@ home: true
 icon: home
 title: 主页
 heroImage: /logo.png
-heroText: MS365教育版手册
-tagline: 中国学馆联盟 Microsoft 365 工作站手册
+heroText: CLC3242P GXX
+tagline: 中文传义小组项目 Wiki 
 actions:
-  - text: 新用户指南 🏫
-    link: new-user
-
-  - text: 实时活动 🔥
-    link: live
+  - text: 书面计划书
+    link: write
     type: primary
+
+  - text: 口头报告
+    link: oral
 
 features:
 
-  - title: 新用户指南
-    icon: fa-light fa-graduation-cap
-    details: 新同学, 新教职工<br >绑定手机号码，双因素认证<br >设定用户个人信息
-    link: new-user
+  - title: 项目解读
+    icon: alias
+    details: 需求文档定义和解读<br >任务明确分工、始终时间
+    link: division
 
-  - title: 基础功能手册
-    icon: fa-solid fa-book-bookmark
-    details: Office 365 套件<br >Forms & Teams & Outlook<br >Onedrive 云盘
-    link: basic/onedrive.html
+  - title: 书面计划书
+    icon: write
+    details: 第一项需要提交的任务<br >占比20%
+    link: write
 
-  - title: SharePoint & Onedrive
-    icon: fa-solid fa-cloud
-    details: 共享文件，文档版本回溯<br >设备同步，挂载到磁盘<br >拓展空间到 25TB
-    link: onedrive
+  - title: 口头报告
+    icon: community
+    details: 第二项需要提交的任务<br >占比30%
+    link: oral
 
-  - title: Microsoft Teams
-    icon: fa-solid fa-users-line
-    details: 语音视频通话，团队协作<br >课堂直播实用工具<br >开启字幕，查看会议回放
-    link: grade
-
-  - title: Outlook 邮件应用手册
-    icon: fa-solid fa-envelope-circle-check
-    details: 邮件转发，延迟发送<br >邮件签名，中英文邮件格式<br >邮件群发和抄送
-    link: contact
-
-  - title: 高级云服务应用指南
-    icon: fa-solid fa-server
-    details: Visio 思维导图<br >Sway 制作在线网页<br >Power BI & APPS 自动化
-    link: service
-
-  - title: 电脑应用程序指南
-    icon: fa-solid fa-computer
-    details: Office 365 桌面版安装<br >Visio & Project 安装<br >使用账户激活并开启云同步 
-    link: advance
-
-  - title: 移动设备应用程序指南
-    icon: fa-solid fa-mobile-screen
-    details: OneNote 跨平台高效笔记<br >手机实时接收院校部门通知<br >Office 手机版安装
-    link:
-
-  - title: 账户保全事项
-    icon: fa-solid fa-fingerprint
-    details: 更新个人信息或密码<br >强制其他设备登出<br >账户被盗后应当怎样操作
-    link: 
-
-  - title: AzureAD SSO 登入
-    icon: fa-solid fa-earth-asia
-    details: Adobe Acrobat 编辑 PDF<br >Xmind 绘制思维导图<br >Notability 同步笔记
-    link: 
-
-  - title: 账户高级操作指南
-    icon: fa-solid fa-address-card
-    details: 快速迁移文件到云上<br >加入另一个组织进行协作<br >使用高效的搜索功能
-    link: 
-
-  - title: 隐私协议和服务条款
-    icon: fa-solid fa-building-shield
-    details: Microsoft 隐私协议<br >中国学馆联盟工作站服务条款<br >Microsoft 服务条款
-    link: applicable
-
-  - title: 常见问题
-    icon: fa-regular fa-circle-question
-    details: 不同账户的许可证以及区别<br >Onedrive 个人版和商业版区别<br >不能够做的事情
+  - title: 帮助中心
+    icon: question
+    details: 如何更新本文档<br >如何使用 Microsoft 365
     link: faq
 
-  - title: 优秀案例
-    icon: fa-solid fa-user-graduate
-    details: 扔掉U盘，开启云托管时代<br >工作就是 Microsoft 365<br >高效工具提升300%效率
-    link: 
-
-  - title: 其他文档
-    icon: fa-solid fa-paper-plane
-    details: Azure AD 应用开发<br >我的世界教育版手册<br >如何注销账户
-    link: 
-
-  - title: 实时 Workshop 活动
-    icon: fa-solid fa-podcast
-    details: 实时更新 Workshop<br >了解技术前沿<br >专家面对面答疑
-    link: about
 
 copyright: false
-footer: AGPL-3.0 | Copyright ©2022 中国学馆联盟
+footer: GPL3.0 Licensed | Copyright © 2022 HKPU
 ---
 
+::: tip 团队协作
+
+项目共同目标：52+ / 55（听说这个课没有A+😅，甚至没有A。Anyway，至少要在这个SEM里做到最好）
+
+- Wechat 群组：日常提示
+- Microsoft Teams 群组：文件协作、正式通知、视频会议
+  - Microsoft Task and Planner：任务安排
+  - Microsoft Outlook：Teams 和 Planner 自动提醒任务
+
+
+请尽可能保证Wechat 和 Microsoft Teams在线，以免错过重要通知。
+
+:::
+
+::: info 会议时间
+
+- 2022年9月2日星期五 晚上8点-9点，Teams 线上，链接见 Teams 群组
+
+:::
+
+::: warning 常见疑问：
+
+- 为什么要使用 Microsoft Teams
+- 正式的项目管理是否真的有效？花费时间真的值得？
+- 如何正确求助: [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)和[别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
+
+:::
+
 <h6 style="text-align:center">
-Microsoft 365 教育版用户手册内容仅供参考
+本站部分材料来自网络，仅用于学术研究。
 <br>
-本项目由中国学馆联盟应用办公室维护
+所有内容均与作业提交无关，不作为任何参考。
 </h6>
+
