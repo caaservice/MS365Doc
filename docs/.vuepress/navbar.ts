@@ -2,10 +2,8 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  { text: "IDEA", icon: "creative", link: "#" },
-  { text: "小组成员", icon: "people", link: "/division/people.html" },
-  { text: "项目解读", icon: "alias", link: "/division/" },
-  { text: "文档修订", icon: "edit", link: "/faq/edit.html" },
-
-
+  { text: "可用性", icon: "fa-solid fa-users", link: "/new-user/#谁适合阅读本文档" },
+  { text: "文档纠错", icon: "fa-solid fa-bug", link: "/correct.html" },
+  { text: "中国学馆联盟", icon: "fa-solid fa-building-columns", link: "https://www.zhongxueguan.cn" },
+  { text: "关于", icon: "fa-solid fa-at", link: "/about.html" },
 ]);

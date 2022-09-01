@@ -3,18 +3,18 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://hirsun.github.io/clc3242p",
+  hostname: "https://ms365doc.zxg.red",
 
   author: {
-    name: "GRPXX",
-    url: "https://hirsun.github.io/clc3242p",
+    name: "CAA Service",
+    url: "https://ms365doc.zxg.red",
   },
 
-  iconAssets: "iconfont",
+  iconAssets: "fontawesome",
 
   logo: "/logo.svg",
 
-  repo: "hirsun/CLC3242P_Wiki",
+  repo: "caaservice/MS365Doc",
 
   docsDir: "docs",
 
@@ -24,9 +24,10 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "We are Super Star!",
+  footer: "由中学馆应用办公室维护",
 
   displayFooter: true,
+  contributors: false,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
@@ -41,10 +42,10 @@ export default hopeTheme({
        * Using Giscus
        */
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "caaservice/MS365Doc",
+      repoId: "R_kgDOHpxN7A",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOHpxN7M4CQPok",
 
       /**
        * Using Twikoo
