@@ -13,7 +13,7 @@ headerDepth: 2
 
 使用你的教育账户登入工作站，网址是 https://www.office.com
 
-![1657906250444.png](https://static-file.zxg.red/2022/07/16/0e1aa9a95c06d.png)
+![1657906250444.png](https://static-file.hk.zxg.red/2022/07/16/0e1aa9a95c06d.png)
 
 ::: tip
 
@@ -21,9 +21,9 @@ headerDepth: 2
 
 :::
 
-![1657906364892.png](https://static-file.zxg.red/2022/07/16/c0d9999493adc.png)
+![1657906364892.png](https://static-file.hk.zxg.red/2022/07/16/c0d9999493adc.png)
 
-![CleanShot-2022-01-29-at-01.38.40@2x.png](https://static-file.zxg.red/2022/07/16/a89a85e846fcd.png)
+![CleanShot-2022-01-29-at-01.38.40@2x.png](https://static-file.hk.zxg.red/2022/07/16/a89a85e846fcd.png)
 
 ::: info
 
@@ -37,6 +37,6 @@ headerDepth: 2
 
 :::
 
-<img src="https://static-file.zxg.red/2022/07/16/d393a49740202.png" alt="CleanShot-2022-01-29-at-02.57.41@2x-1024x791.png" style="zoom:50%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/d393a49740202.png" alt="CleanShot-2022-01-29-at-02.57.41@2x-1024x791.png" style="zoom:50%;" />
 
-![1657906835642.png](https://static-file.zxg.red/2022/07/16/052fe23801d65.png)
+![1657906835642.png](https://static-file.hk.zxg.red/2022/07/16/052fe23801d65.png)

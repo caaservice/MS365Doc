@@ -38,14 +38,14 @@ headerDepth: 2
 
 :::
 
-![1657960016073.png](https://static-file.zxg.red/2022/07/16/0298d1f101f71.png)
+![1657960016073.png](https://static-file.hk.zxg.red/2022/07/16/0298d1f101f71.png)
 
 ## 认识界面
 
-![1657913595472.png](https://static-file.zxg.red/2022/07/16/209c78e0d225e.png)
+![1657913595472.png](https://static-file.hk.zxg.red/2022/07/16/209c78e0d225e.png)
 
 ## 发送邮件
 
 更加详细的内容请查看 Outlook 邮件应用手册。
 
-![1657914396641.png](https://static-file.zxg.red/2022/07/16/c71e825db8d49.png)
+![1657914396641.png](https://static-file.hk.zxg.red/2022/07/16/c71e825db8d49.png)

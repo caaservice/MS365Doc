@@ -30,9 +30,9 @@ Onedrive for business 是 Microsoft 365 商业版、企业版和教育版中包�
 
 :::
 
-<img src="https://static-file.zxg.red/2022/07/16/67d68e27db727.png" alt="1657908998363.png" style="zoom: 33%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/67d68e27db727.png" alt="1657908998363.png" style="zoom: 33%;" />
 
-<img src="https://static-file.zxg.red/2022/07/16/2766300fdeb31.png" alt="1657909067421.png" style="zoom:50%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/2766300fdeb31.png" alt="1657909067421.png" style="zoom:50%;" />
 
 ## 基础操作
 
@@ -40,9 +40,9 @@ Onedrive for business 是 Microsoft 365 商业版、企业版和教育版中包�
 
 很简单，您只需要把文件或者文件夹拖入到浏览器中即可进行上传。
 
-![1657909236417.png](https://static-file.zxg.red/2022/07/16/2299c027fa567.png)
+![1657909236417.png](https://static-file.hk.zxg.red/2022/07/16/2299c027fa567.png)
 
-![CleanShot 2022-07-26 at 00.13.57@2x.png](https://static-file.zxg.red/2022/07/26/1f930e8ee0270.png)
+![CleanShot 2022-07-26 at 00.13.57@2x.png](https://static-file.hk.zxg.red/2022/07/26/1f930e8ee0270.png)
 
 ::: danger
 
@@ -54,11 +54,11 @@ Onedrive for business 是 Microsoft 365 商业版、企业版和教育版中包�
 
 你可以在你的Onedrive创建任何文件，他们支持浏览器内在线编辑，实时保存，这样您就不用担心丢失问题了！
 
-![1657909441248.png](https://static-file.zxg.red/2022/07/16/82110de580586.png)
+![1657909441248.png](https://static-file.hk.zxg.red/2022/07/16/82110de580586.png)
 
 ### 复制和移动文件
 
-<img src="https://static-file.zxg.red/2022/07/16/5261cd293e0e0.png" alt="1657909500812.png" style="zoom:50%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/5261cd293e0e0.png" alt="1657909500812.png" style="zoom:50%;" />
 
 ### 下载文件
 
@@ -67,9 +67,9 @@ Onedrive for business 是 Microsoft 365 商业版、企业版和教育版中包�
 - 下载多个文件时，文件会自动打包成 ZIP 压缩文件传输。
 - 下载速度取决于电信运营商限速和线路好坏。官方不限速。
 
-<img src="https://static-file.zxg.red/2022/07/16/2905653226a14.png" alt="1657909552188.png" style="zoom:50%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/2905653226a14.png" alt="1657909552188.png" style="zoom:50%;" />
 
-<img src="https://static-file.zxg.red/2022/07/16/5dbdf1a7e7dce.png" alt="1657909928949.png" style="zoom:50%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/5dbdf1a7e7dce.png" alt="1657909928949.png" style="zoom:50%;" />
 
 ::: tip 下载提速技巧
 
@@ -81,4 +81,4 @@ Onedrive for business 是 Microsoft 365 商业版、企业版和教育版中包�
 
 ## 其他操作
 
-![1657910115580.png](https://static-file.zxg.red/2022/07/16/fa824ac270eda.png)
+![1657910115580.png](https://static-file.hk.zxg.red/2022/07/16/fa824ac270eda.png)

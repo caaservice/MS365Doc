@@ -11,11 +11,11 @@ headerDepth: 2
 
 你应当通过在工作环境下，在浏览器的网址栏中输入 www.office.com 进入工作站。
 
-![1657907055825.png](https://static-file.zxg.red/2022/07/16/8c730bd21e4df.png)
+![1657907055825.png](https://static-file.hk.zxg.red/2022/07/16/8c730bd21e4df.png)
 
 我们应当快速适应在浏览器中使用工作站，提高生产力和创作能力。
 
-![1657907089091.png](https://static-file.zxg.red/2022/07/16/024d5431208ab.png)
+![1657907089091.png](https://static-file.hk.zxg.red/2022/07/16/024d5431208ab.png)
 
 这些应用功能的技巧将在后面的文档讲解。
 

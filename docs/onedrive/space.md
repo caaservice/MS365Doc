@@ -27,7 +27,7 @@ headerDepth: 2
 
 通常，单个 Sharepoint 站点空间大小不限制。但是整个组织可用的空间是一定的。通常为防止 单个 Sharepoint 站点把组织的空间占满，组织管理员通常做出了限制。我组织目前不对单个 Sharepoint 站点空间大小不限制设置限制。
 
-![1659714105754.png](https://static-file.zxg.red/2022/08/05/2f060fe5aa42e.png)
+![1659714105754.png](https://static-file.hk.zxg.red/2022/08/05/2f060fe5aa42e.png)
 
 ## 回收站
 
@@ -35,11 +35,11 @@ headerDepth: 2
 
 ### Onedrive for Business
 
-![1659714967499.png](https://static-file.zxg.red/2022/08/05/f18aa8c24ed9e.png)
+![1659714967499.png](https://static-file.hk.zxg.red/2022/08/05/f18aa8c24ed9e.png)
 
 ### Sharepoint
 
 你有时可以直接在侧边栏找到回收站，或者，点击右上角`齿轮`图标按钮，首先单击`网站内容`,最后点击`回收站`。
 
-![1659716344620.png](https://static-file.zxg.red/2022/08/06/4ab5864b7e46c.png)
+![1659716344620.png](https://static-file.hk.zxg.red/2022/08/06/4ab5864b7e46c.png)
 

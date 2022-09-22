@@ -23,4 +23,4 @@ headerDepth: 2
 - 微软中国
 - Vue.js, Vuepress
 
-<img src="https://static-file.zxg.red/2022/07/16/fac04de9452f9.png" alt="1657916685705.png" style="zoom: 33%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/fac04de9452f9.png" alt="1657916685705.png" style="zoom: 33%;" />

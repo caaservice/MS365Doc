@@ -61,11 +61,11 @@ headerDepth: 2
 
 事实上，你只需要按照主页手册的顺序即可由浅到深的学习。不过，很多用户可能对本文档的组织方式有疑问。
 
-![1657901394249.png](https://static-file.zxg.red/2022/07/16/e99adf98794fd.png)
+![1657901394249.png](https://static-file.hk.zxg.red/2022/07/16/e99adf98794fd.png)
 
 每个手册内都会有多篇文章，通过查看侧边栏可以进行列表。
 
-![1657901809225.png](https://static-file.zxg.red/2022/07/16/ca0579400a2e1.png)在手机上可通过左上角汉堡包调出侧边栏
+![1657901809225.png](https://static-file.hk.zxg.red/2022/07/16/ca0579400a2e1.png)在手机上可通过左上角汉堡包调出侧边栏
 
-<img src="https://static-file.zxg.red/2022/07/16/db65c09a5e4d0.png" alt="1657959825900.png" style="zoom:33%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/db65c09a5e4d0.png" alt="1657959825900.png" style="zoom:33%;" />
 

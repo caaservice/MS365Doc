@@ -40,22 +40,22 @@ headerDepth: 2
 
 首先我们需要配置好个人账户，如果 Windows 系统已经登入了Microsoft 个人账户，一般将自动登入。
 
-![1657904449567.png](https://static-file.zxg.red/2022/07/16/4882d44fae4b9.png)
+![1657904449567.png](https://static-file.hk.zxg.red/2022/07/16/4882d44fae4b9.png)
 
 下一步添加教育账户资料
 
-![1657904788935.png](https://static-file.zxg.red/2022/07/16/f9b26c56ff451.png)
+![1657904788935.png](https://static-file.hk.zxg.red/2022/07/16/f9b26c56ff451.png)
 
-![1657905509158.png](https://static-file.zxg.red/2022/07/16/ce5b184c027c8.png)
+![1657905509158.png](https://static-file.hk.zxg.red/2022/07/16/ce5b184c027c8.png)
 
 ## Chrome 个人资料设置
 
 首先，我们需要下载Chrome，下载地址  https://www.google.cn/chrome  。需要注意的是请不要使用其他链接下载， 考虑到网络上流传了很多盗版的 Chrome浏览器。
 
-<img src="https://static-file.zxg.red/2022/07/16/d8ed0a68a794f.png" alt="1657905575293.png" style="zoom:33%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/d8ed0a68a794f.png" alt="1657905575293.png" style="zoom:33%;" />
 
 安装完成后，我们应当添加一份工作账户资料。
 
-<img src="https://static-file.zxg.red/2022/07/16/cdee6951d8cea.png" alt="1657905607773.png" style="zoom:33%;" />
+<img src="https://static-file.hk.zxg.red/2022/07/16/cdee6951d8cea.png" alt="1657905607773.png" style="zoom:33%;" />
 
 此时你应该至少有两份资料，一份是个人账户，一份是工作账户。

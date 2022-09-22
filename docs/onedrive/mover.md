@@ -12,7 +12,7 @@ headerDepth: 2
 
 除了手动的把文件下载下来，再上传上到新云盘外，你可以使用微软官方的迁移工具 Mover.io。
 
-![1660670809344.png](https://static-file.zxg.red/2022/08/17/9490abad07e9b.png)
+![1660670809344.png](https://static-file.hk.zxg.red/2022/08/17/9490abad07e9b.png)
 
 支持的被迁移的云盘
 
@@ -47,23 +47,23 @@ headerDepth: 2
 
 这里可以使用任何微软账户登入。
 
-![1660671478265.png](https://static-file.zxg.red/2022/08/17/4240cfade4101.png)
+![1660671478265.png](https://static-file.hk.zxg.red/2022/08/17/4240cfade4101.png)
 
 ## 选择迁移来源和去向
 
 你需要分别登入涉及迁移的来源账户和去向账户。
 
-![1660671655230.png](https://static-file.zxg.red/2022/08/17/68f3d42e7c135.png)
+![1660671655230.png](https://static-file.hk.zxg.red/2022/08/17/68f3d42e7c135.png)
 
 如下图所示，左侧和右侧各选择一个账户，即表示从左侧选择的账户2迁移到右侧选择的账户8。
 
-![1660672281738.png](https://static-file.zxg.red/2022/08/17/5169e22be3594.png)
+![1660672281738.png](https://static-file.hk.zxg.red/2022/08/17/5169e22be3594.png)
 
 ## Migration Manager
 
 你可以在 Migration Manager 查看和管理迁移进度。
 
-![1660672307332.png](https://static-file.zxg.red/2022/08/17/b383635492ee6.png)
+![1660672307332.png](https://static-file.hk.zxg.red/2022/08/17/b383635492ee6.png)
 
 在这里你还可以设置
 

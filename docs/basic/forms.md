@@ -8,7 +8,7 @@ headerDepth: 2
 
 # Forms 进行测验或收集表单
 
-![1657921430037.png](https://static-file.zxg.red/2022/07/16/11c5901a1c4eb.png)
+![1657921430037.png](https://static-file.hk.zxg.red/2022/07/16/11c5901a1c4eb.png)
 
 其实现在有很多进行问卷收集或测验产品，我们还是推荐使用 Microsoft Forms，原因是
 
