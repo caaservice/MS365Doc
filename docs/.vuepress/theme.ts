@@ -3,11 +3,11 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://ms365doc.zxg.red",
+  hostname: "https://ms365doc.hk.zxg.red",
 
   author: {
     name: "CAA Service",
-    url: "https://ms365doc.zxg.red",
+    url: "https://ms365doc.hk.zxg.red",
   },
 
   iconAssets: "fontawesome",
