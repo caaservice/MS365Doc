@@ -28,7 +28,7 @@ features:
   - title: SharePoint & Onedrive
     icon: fa-solid fa-cloud
     details: 共享文件，文档版本回溯<br >设备同步，挂载到磁盘<br >拓展空间到 25TB
-    link: onedrive
+    link: od
 
   - title: Microsoft Teams
     icon: fa-solid fa-users-line

@@ -8,6 +8,18 @@ headerDepth: 2
 
 # 快速迁移文件
 
+::: warning Mover 停止服务
+
+在过去，Mover 是迁移文件的最佳选择。过去，它支持您在线地从在 Onedrive、Dropbox、Google Cloud、本地 之间互相迁移文件。然而，大约1年前，微软收购 Mover，并在接下来的几个里逐步关闭 Mover。
+
+- 收购后，仅允许将文件从其他任何地方转移到 Onedrive。
+- 几个月前，微软关闭了组织整体通过 mover 迁移。
+- 现在，微软主笔停用mover 的几乎所有业务。 
+
+因此目前没有好的迁移文件的方法。<u>本文可能已经过时。</u>
+
+:::
+
 也许你已经在其他品牌云盘或者 Onedrive 个人版保存了你的文件，或者别的组织的 Onedrive for Business 存储了文件，如何其他网盘的文件迁移到Onedrive for Business上呢？
 
 除了手动的把文件下载下来，再上传上到新云盘外，你可以使用微软官方的迁移工具 Mover.io。
