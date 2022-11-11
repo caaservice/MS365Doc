@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ms365doc.hk.zxg.red/sitemap.xml
+Sitemap: https://asi.ac.cn/support/support/sitemap.xml
