@@ -75,7 +75,7 @@ Onedrive for business 是 Microsoft 365 商业版、企业版和教育版中包�
 
 有时候，因为某些因素，在中国内地下载 Onedrive for business 文件的速度可能不能令人满意。部分同学考虑使用~~国际线路网络~~工具，可这种的成本又很高，提速也不理想。
 
-本文档提供一种使用多线程方式下载  Onedrive for business 文件，实测最高下载速度为 2519 MB/s。请查看 [快速下载文件指南](/onedrive/fast-download.html)
+本文档提供一种使用多线程方式下载  Onedrive for business 文件，实测最高下载速度为 2519 MB/s。请查看 [快速下载文件指南](/support/od/fast-download.html)
 
 :::
 
