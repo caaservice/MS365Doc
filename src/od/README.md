@@ -34,5 +34,5 @@ Onedrive 则是 Microsoft 365 个人版的服务，不在教育版中包含。�
 
 :::
 
-<img src="https://static-file.hk.zxg.red/2022/08/05/1242152b08876.png" alt="1659712490689.png" style="zoom: 50%;" />
+<img src="https://static-file.asi.ac.cn/2022/08/05/1242152b08876.png" alt="1659712490689.png" style="zoom: 50%;" />
 

@@ -4,7 +4,6 @@ export default sidebar({
   "/new-user/": "structure",
   "/basic/": "structure",
   "/od/": "structure",
-  "/basic/": "structure",
+  "/basic-opt/": "structure",
   "/faq/": "structure",
-}
-);
+});

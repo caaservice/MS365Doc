@@ -16,14 +16,14 @@ actions:
 features:
 
   - title: 新用户指南
-    icon: fa-light fa-graduation-cap
+    icon: fa-solid fa-graduation-cap
     details: 新同学, 新教职工<br >绑定手机号码，双因素认证<br >设定用户个人信息
     link: new-user
 
   - title: 基础功能手册
     icon: fa-solid fa-book-bookmark
     details: Office 365 套件<br >Forms & Teams & Outlook<br >Onedrive 云盘
-    link: basic/onedrive.html
+    link: basic-opt/onedrive.html
 
   - title: SharePoint & Onedrive
     icon: fa-solid fa-cloud
@@ -76,7 +76,7 @@ features:
     link: applicable
 
   - title: 常见问题
-    icon: fa-regular fa-circle-question
+    icon: fa-solid fa-clipboard-question
     details: 不同账户的许可证以及区别<br >Onedrive 个人版和商业版区别<br >不能够做的事情
     link: faq
 
@@ -93,7 +93,7 @@ features:
   - title: 实时 Workshop 活动
     icon: fa-solid fa-podcast
     details: 实时更新 Workshop<br >了解技术前沿<br >专家面对面答疑
-    link: about
+    link: workshop
 
 copyright: false
 footer: AGPL-3.0 | Copyright ©2022 中国学馆联盟
