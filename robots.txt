@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://helper.asi.ac.cn/msdocs/msdocs/sitemap.xml
+Sitemap: https://asi.ac.cn/msdocs/msdocs/sitemap.xml

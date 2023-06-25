@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as c,c as r,a as e,b as t}from"./app-5cc82e9c.js";const s={},n=e("h6",{style:{"text-align":"center"}},[t(" Microsoft 365 教育版用户手册内容仅供参考 "),e("br"),t(" 本项目由中国学馆联盟应用办公室维护 ")],-1),_=[n];function a(i,l){return c(),r("div",null,_)}const m=o(s,[["render",a],["__file","index.html.vue"]]);export{m as default};
