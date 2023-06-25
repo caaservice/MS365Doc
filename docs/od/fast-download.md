@@ -27,7 +27,7 @@ headerDepth: 2
 - 选中单个文件可下载单个文件
 - 选中多个文件后，将下载文件组成的压缩包
 
-![CleanShot 2022-07-26 at 00.18.49@2x.png](https://static-file.hk.zxg.red/2022/07/26/d35631b33fb0f.png)
+![CleanShot 2022-07-26 at 00.18.49@2x.png](https://static-file.asi.ac.cn/2022/07/26/d35631b33fb0f.png)
 
 ::: warning
 
@@ -51,23 +51,23 @@ headerDepth: 2
 
 Motrix 是开源的多线程下载工具，支持多个平台。简单易用，可以代替迅雷。下载地址: [Motrix](https://motrix.app/)
 
-![1658766889153.png](https://static-file.hk.zxg.red/2022/07/26/885fb2bed12c5.png)
+![1658766889153.png](https://static-file.asi.ac.cn/2022/07/26/885fb2bed12c5.png)
 
 下载任何文件都可以使用Motrix，你会发现在宽带允许的情况下，速度起飞了。
 
 #### 提速前
 
-<img src="https://static-file.hk.zxg.red/2022/07/26/c740376f9c7d3.png" alt="1658767076978.png" style="zoom:50%;" />
+<img src="https://static-file.asi.ac.cn/2022/07/26/c740376f9c7d3.png" alt="1658767076978.png" style="zoom:50%;" />
 
 #### 提速后
 
-![1658767147374.png](https://static-file.hk.zxg.red/2022/07/26/1c0dbda593882.png)
+![1658767147374.png](https://static-file.asi.ac.cn/2022/07/26/1c0dbda593882.png)
 
 ### 获取 Onedrive 文件链接
 
 问题是，如何获得 Onedrive for business 的文件直接下载链接呢？前面说了，直接从网页拷贝的下载链接无法在下载工具里使用。 
 
-本节提供了 Onedrive for Business 文件直接下载链接获取工具 网页版，点击使用：https://odurl.zxg.red/
+本节提供了 Onedrive for Business 文件直接下载链接获取工具 网页版，点击使用：xxxxxxx
 
 ::: tip
 
@@ -80,19 +80,19 @@ Onedrive Url Getter 帮助开发者获取 Onedrive 文件的直接下载链接�
 3. 进入OneDrive“公开”文件夹内选择需要获取直链的文件（同一文件夹内可多选），点击打开。
 4. 选择需要输出的掩码格式，输出面板内会自动生成对应的格式。
 
-![86d643e1cf7ab.png](https://static-file.hk.zxg.red/2022/07/26/7d86629e68ca3.png)
+![86d643e1cf7ab.png](https://static-file.asi.ac.cn/2022/07/26/7d86629e68ca3.png)
 
 之后我们得到了链接，这个链接就是可以直接下载该文件的链接，也支持被多线程地下载。这个链接有一些长，请注意不要有遗漏，通常12小时内有效，过期后需要重新获取链接。
 
-![CleanShot 2022-07-26 at 01.01.13@2x.png](https://static-file.hk.zxg.red/2022/07/26/8b6c008fb1dfd.png)
+![CleanShot 2022-07-26 at 01.01.13@2x.png](https://static-file.asi.ac.cn/2022/07/26/8b6c008fb1dfd.png)
 
 我们接下来把下载链接复制到 Motrix。
 
-![CleanShot 2022-07-26 at 01.05.20@2x.png](https://static-file.hk.zxg.red/2022/07/26/3380e98c0d278.png)
+![CleanShot 2022-07-26 at 01.05.20@2x.png](https://static-file.asi.ac.cn/2022/07/26/3380e98c0d278.png)
 
 以下测试发生在中国河北省石家庄市，使用1000M联通家庭宽带。
 
-![360截图18430703243154.png](https://static-file.hk.zxg.red/2022/07/26/eb50c9f6cb0cc.png)
+![360截图18430703243154.png](https://static-file.asi.ac.cn/2022/07/26/eb50c9f6cb0cc.png)
 
 ::: tip
 

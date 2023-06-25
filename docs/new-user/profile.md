@@ -12,17 +12,17 @@ headerDepth: 2
 
 本文将简述如何修改个人资料和工作站账户密码
 
-![1657919955298.png](https://static-file.hk.zxg.red/2022/07/16/8943b6e7626b6.png)
+![1657919955298.png](https://static-file.asi.ac.cn/2022/07/16/8943b6e7626b6.png)
 
 你也在这个页面看到了注销按钮。如果你想退出登入，请点击注销。下面的查看账户和配置文件用于修改信息。
 
 ## 修改个人资料
 
-![1657920131353.png](https://static-file.hk.zxg.red/2022/07/16/95b4da17a6c87.png)
+![1657920131353.png](https://static-file.asi.ac.cn/2022/07/16/95b4da17a6c87.png)
 
 ## 修改工作站密码
 
-![1657920191482.png](https://static-file.hk.zxg.red/2022/07/16/8742c76e73c54.png)
+![1657920191482.png](https://static-file.asi.ac.cn/2022/07/16/8742c76e73c54.png)
 
 至于找回密码，请查看账户保全事项。
 

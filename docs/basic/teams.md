@@ -28,7 +28,7 @@ headerDepth: 2
 4. 可录制会议过程并储存至Onedrive。
 5. 可整合微软 Microsoft 365工作站的各项应用服务。
 
-<img src="https://static-file.hk.zxg.red/2022/07/16/5bd6865d92d2e.png" alt="1657914755032.png" style="zoom:50%;" />
+<img src="https://static-file.asi.ac.cn/2022/07/16/5bd6865d92d2e.png" alt="1657914755032.png" style="zoom:50%;" />
 
 ## 入门指南
 

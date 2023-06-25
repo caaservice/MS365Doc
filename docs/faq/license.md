@@ -38,15 +38,15 @@ headerDepth: 2
 
 对于非个人版 Microsoft 365，在查看账户中
 
-![1657963240491.png](https://static-file.hk.zxg.red/2022/07/16/5e5b62365e462.png)
+![1657963240491.png](https://static-file.asi.ac.cn/2022/07/16/5e5b62365e462.png)
 
 点击订阅
 
-![1657963348987.png](https://static-file.hk.zxg.red/2022/07/16/0480c7a0ec159.png)
+![1657963348987.png](https://static-file.asi.ac.cn/2022/07/16/0480c7a0ec159.png)
 
 此处列出了你的许可证以及许可证内包含的产品服务
 
-![1657963495933.png](https://static-file.hk.zxg.red/2022/07/16/0bc757c7fd7c2.png)
+![1657963495933.png](https://static-file.asi.ac.cn/2022/07/16/0bc757c7fd7c2.png)
 
 ## 为什么要使用教育版
 
@@ -56,15 +56,15 @@ Microsoft 365 教育版工作站为教育组织提供了高效的生产力工具
 
 ## A1 和 A3 许可证对比
 
-![1657965528706.png](https://static-file.hk.zxg.red/2022/07/16/ce4486e3837c6.png)
+![1657965528706.png](https://static-file.asi.ac.cn/2022/07/16/ce4486e3837c6.png)
 
-![9952d4873bd6e.png](https://static-file.hk.zxg.red/2022/07/16/8b81f83b110d3.png)
+![9952d4873bd6e.png](https://static-file.asi.ac.cn/2022/07/16/8b81f83b110d3.png)
 
-![1657965859121.png](https://static-file.hk.zxg.red/2022/07/16/c890c307e1fab.png)
+![1657965859121.png](https://static-file.asi.ac.cn/2022/07/16/c890c307e1fab.png)
 
-![1657965945082.png](https://static-file.hk.zxg.red/2022/07/16/64fa79f9c0ffa.png)
+![1657965945082.png](https://static-file.asi.ac.cn/2022/07/16/64fa79f9c0ffa.png)
 
-![1657966030701.png](https://static-file.hk.zxg.red/2022/07/16/868c2c5e9677b.png)
+![1657966030701.png](https://static-file.asi.ac.cn/2022/07/16/868c2c5e9677b.png)
 
 ## 如何续订许可证
 
@@ -75,6 +75,7 @@ Microsoft 365 教育版工作站为教育组织提供了高效的生产力工具
 下面文档展示了 Microsoft 365 教育版许可证的详细信息。
 
 <div class="pdf-preview">
-<iframe class="pdf-iframe" src="https://static-file.hk.zxg.red/2022/07/16/8aa7f1d4e98be.pdf" style="width: 100%; height: 500px; border-radius: 8px;">
+<iframe class="pdf-iframe" src="https://static-file.asi.ac.cn/2022/07/16/8aa7f1d4e98be.pdf" style="width: 100%; height: 500px; border-radius: 8px;">
 </iframe>
 </div>
+
