@@ -55,7 +55,7 @@ headerDepth: 2
 
 :::
 
-[了解如何查看自己许可证](/faq/license.html#如何查看自己的许可证)
+[了解如何查看自己许可证](/msdocs/faq/license.html#如何查看自己的许可证)
 
 ## 如何学习本文档
 
