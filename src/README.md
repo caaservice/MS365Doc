@@ -9,8 +9,8 @@ actions:
   - text: 新用户指南 🏫
     link: new-user
 
-  - text: 开通账户 🔥
-    link: https://forms.office.com/r/4Wk9C1Dgu9
+  - text: 注册会员 🔥
+    link: https://asi.ac.cn/register/
     type: primary
 
 features:
